@@ -1,5 +1,5 @@
 import { NavLink } from "react-router-dom";
-import logo from "../assets/fabio_tran_logo.png"
+import logo from "../assets/fabio_tran_logo.png";
 
 const menuOptions = [
   { title: "Home", path: "/" },

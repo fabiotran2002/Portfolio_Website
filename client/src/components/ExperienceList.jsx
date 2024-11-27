@@ -1,5 +1,4 @@
 import { NavLink } from "react-router-dom";
-import logo from "../assets/react.svg";
 
 // Import portfolio pictures
 import portfolio_demo_pic from "../assets/portfolio_demo_pic.png"
